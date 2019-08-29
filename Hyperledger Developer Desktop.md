@@ -12,9 +12,13 @@ These is trial account which will give access to registered service and its reso
 
 **3.	What is Launch Desktop option? What it is providing to me?**
 
-Launch Desktop option will provide an access to IBM® Blockchain Platform Visual Studio (VS) Code extension. Once you click on it, it will show a password which needs to connect to VNC. You can also see the ID and password details once you click on key icon and it will show you all details like below:
+Launch Desktop option will provide an access to IBM® Blockchain Platform Visual Studio (VS) Code extension. Once you click on it, it will show a password which needs to connect to VNC. You can also see the ID and password details once you click on key icon, it will show you all details.
+
+![](_attachments/Launch_Desktop.png)
 
 Once you click on launch it provide option to connect to platform: 
+
+![](_attachments/VNC_Connect.png)
 
 --------------------
 
@@ -22,19 +26,27 @@ Once you click on launch it provide option to connect to platform:
 
 Once you logged in to “noVNC” , click on application --> Accessories --> Visual Studio Code
 
+![](_attachments/Path_VNC.png)
+
   4.1	Overview of Visual Studio Code
   
+![](_attachments/VSCode.png)  
   
   4.2	On the left menu bar, click on IBM Blockchain Platform menu
   
+ ![](_attachments/Platform_Image.png) 
   
   4.3	View switch to IBM Blockchain Platform view, displayed with features Smart Contract Packages, Local Fabric Ops, Fabric Gateway, and Fabric Wallets
   
+ ![](_attachments/Platform_View.png)
+ 
   -------------------- 
   
 **5.	How to copy code to terminal or from terminal ?**
   
 You can use clipboard option to copy code to terminal from desktop or vice versa.
+
+![](_attachments/Clipboard.png)
 
 ----------------------
 
@@ -42,10 +54,13 @@ You can use clipboard option to copy code to terminal from desktop or vice versa
 
 At the terminal at left hand side you will see one small side bar with multiple option . One of the option is there to disconnect:
 
+![](_attachments/Disconnect.png)
 
 ---------------------- 
 
 **7.	Side bar panel options:**
+
+![](_attachments/Panel.png)
 
 
 
